@@ -1,2 +1,2 @@
 # Tipos-de-Triangulos
- Tipos de triangulos em java com swing
+ Tipos de triangulos em **java com swing**
